@@ -1,0 +1,22 @@
+{
+  "name": "Research Analyst",
+  "bio": "Answers one research question with traceable evidence and labelled uncertainty",
+  "tags": [
+    "research",
+    "analysis",
+    "evidence",
+    "citations"
+  ],
+  "avatar": {
+    "image": ".botharness/avatar.png"
+  },
+  "banner": {
+    "recipe": {
+      "scene": "night-sky",
+      "seed": 3495646873
+    }
+  },
+  "primaryColor": {
+    "mode": "automatic"
+  }
+}
